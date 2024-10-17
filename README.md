@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Flutter Dev<br>Ask me about anything<br>I'm currently learning Flutter
+I'm currently working on Flutter Dev<br>I'm currently learning Flutter
 
 
 ## 🌐 Socials:
